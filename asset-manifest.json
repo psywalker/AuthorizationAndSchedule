@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/AuthorizationAndSchedule/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/AuthorizationAndSchedule/static/js/main.e549bb2c.chunk.js",
-    "main.js.map": "/AuthorizationAndSchedule/static/js/main.e549bb2c.chunk.js.map",
-    "runtime-main.js": "/AuthorizationAndSchedule/static/js/runtime-main.f1e7648e.js",
-    "runtime-main.js.map": "/AuthorizationAndSchedule/static/js/runtime-main.f1e7648e.js.map",
-    "static/js/2.326b399c.chunk.js": "/AuthorizationAndSchedule/static/js/2.326b399c.chunk.js",
-    "static/js/2.326b399c.chunk.js.map": "/AuthorizationAndSchedule/static/js/2.326b399c.chunk.js.map",
-    "static/js/3.0095c733.chunk.js": "/AuthorizationAndSchedule/static/js/3.0095c733.chunk.js",
-    "static/js/3.0095c733.chunk.js.map": "/AuthorizationAndSchedule/static/js/3.0095c733.chunk.js.map",
+    "main.js": "/AuthorizationAndSchedule/static/js/main.f33cf1f9.chunk.js",
+    "main.js.map": "/AuthorizationAndSchedule/static/js/main.f33cf1f9.chunk.js.map",
+    "runtime-main.js": "/AuthorizationAndSchedule/static/js/runtime-main.ce4710c9.js",
+    "runtime-main.js.map": "/AuthorizationAndSchedule/static/js/runtime-main.ce4710c9.js.map",
+    "static/js/2.26b7a5be.chunk.js": "/AuthorizationAndSchedule/static/js/2.26b7a5be.chunk.js",
+    "static/js/2.26b7a5be.chunk.js.map": "/AuthorizationAndSchedule/static/js/2.26b7a5be.chunk.js.map",
+    "static/js/3.6d85ffe1.chunk.js": "/AuthorizationAndSchedule/static/js/3.6d85ffe1.chunk.js",
+    "static/js/3.6d85ffe1.chunk.js.map": "/AuthorizationAndSchedule/static/js/3.6d85ffe1.chunk.js.map",
     "index.html": "/AuthorizationAndSchedule/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/AuthorizationAndSchedule/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.326b399c.chunk.js.LICENSE.txt": "/AuthorizationAndSchedule/static/js/2.326b399c.chunk.js.LICENSE.txt",
+    "static/js/2.26b7a5be.chunk.js.LICENSE.txt": "/AuthorizationAndSchedule/static/js/2.26b7a5be.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/AuthorizationAndSchedule/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1e7648e.js",
-    "static/js/2.326b399c.chunk.js",
+    "static/js/runtime-main.ce4710c9.js",
+    "static/js/2.26b7a5be.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.e549bb2c.chunk.js"
+    "static/js/main.f33cf1f9.chunk.js"
   ]
 }
